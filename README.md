@@ -1,41 +1,55 @@
-<img align="center" alt="Geeksomaniac" width="3000" height="500" src="https://i.pinimg.com/originals/8c/f6/06/8cf60608f95bfae20a9e78884e1a33cb.gif">
+![👋 Hi, my name is Rudra](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
 
-<h1 align="center">Hi 👋, I'm Rudra</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Rudra
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<img align="right" alt="Geeksomaniac" width="420" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/digaxn7-b52c9765-13ce-4034-b99d-f1a6b1030161.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGlnYXhuNy1iNTJjOTc2NS0xM2NlLTQwMzQtYjk5ZC1mMWE2YjEwMzAxNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FoaDgitcpu_edwuaxVURu1dXsmow2djnal4VcSwghLw">
+# About Me:
+Hi! I'm Rudra, a tech enthusiast and full-stack developer in the making.<br>
+I’m passionate about solving real-world problems with practical software solutions.<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra356&label=Profile%20views&color=0e75b6&style=flat" alt="rudra356" /> </p>
+From building REST APIs to working on full-stack web apps, I enjoy crafting scalable and performant systems.<br>
 
-- 🔭 I’m currently learning **Spring Boot & Hibernate**
+I’m exploring backend frameworks like Spring Boot, building frontends in React, and delivering results with clean, testable code.<br>
 
-- 👯 I’m looking to collaborate on **Interesting Techy ideas and Visions**
+I love learning new tech and I’m always looking to collaborate on interesting projects. Let’s connect and build something awesome! 🚀<br><br>
 
-- 💬 Ask me about **nothing**
+## 🌐 Socials:
+<!-- Add your social links here -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]()
 
-- 📫 How to reach me **rudranaskar66@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-- ⚡ Fun fact **I am a street racer 😎**<br><br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com?user=your-github-username&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudra356" alt="rudra356" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/rudra_356" target="blank"><img src="https://img.shields.io/twitter/follow/rudra_356?logo=twitter&style=for-the-badge" alt="rudra_356" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rudra_356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rudra_356" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rudra-naskar653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra naskar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dark_dawn_666" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dark_dawn_666" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/rudranaskar66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rudranaskar66" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra356&show_icons=true&locale=en&layout=compact" alt="rudra356" /></p>
-
-<p>&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=rudra356&show_icons=true&locale=en" alt="rudra356" /></p>
-
-<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra356&" alt="rudra356" /></p>
+<!-- Proudly customized from GPRM ( https://gprm.itsvg.in ) -->
