@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-# About Me:
+
 Hi! I'm Rudra, a tech enthusiast and full-stack developer in the making.<br>
 
 I’m passionate about solving real-world problems with practical software solutions.<br>
