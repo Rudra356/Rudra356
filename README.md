@@ -24,7 +24,6 @@ I love learning new tech and I’m always looking to collaborate on interesting 
 <!-- Add your social links here -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]()
 
 # 💻 Tech Stack:
@@ -49,7 +48,5 @@ I love learning new tech and I’m always looking to collaborate on interesting 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]()
 
 <!-- Proudly customized from GPRM ( https://gprm.itsvg.in ) -->
