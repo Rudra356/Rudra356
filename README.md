@@ -38,7 +38,6 @@ I love learning new tech and I’m always looking to collaborate on interesting 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
 
 <!-- Proudly customized from GPRM ( https://gprm.itsvg.in ) -->
